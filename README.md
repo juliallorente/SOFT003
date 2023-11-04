@@ -1,7 +1,5 @@
 # Software para Detecção de Fraude de Cartões de Crédito
 
-![UDESC Logo]([link_para_o_logo_da_udesc.png](https://www1.udesc.br/imagens/id_submenu/2014/marca_joinville_vertical_rgb_01.jpg)) <!-- Substitua pelo link do logo da UDESC se tiver -->
-
 ## 📖 Descrição
 
 O objetivo deste software é detectar fraudes em transações com cartões de crédito. Durante o desenvolvimento, foram implementados diversos testes unitários e um diagrama de classes para garantir a eficácia e a organização do código.
